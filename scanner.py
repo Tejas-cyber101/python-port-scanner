@@ -1,6 +1,4 @@
-3. Paste this code:
 
-```python
 import socket
 
 def scan_ports(target, start_port, end_port):
